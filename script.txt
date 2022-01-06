@@ -1,1 +1,4 @@
 CUDA_VISIBLE_DEVICES=1 python3 deploy/python/det_keypoint_unite_infer.py --det_model_dir=output/picodet_s_320_pedestrian --keypoint_model_dir=output/tinypose_256x192 --video_file=output_infer/pose_front.mp4 --device=GPU
+#
+
+
