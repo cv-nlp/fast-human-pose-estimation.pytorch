@@ -2,3 +2,9 @@ CUDA_VISIBLE_DEVICES=1 python3 deploy/python/det_keypoint_unite_infer.py --det_m
 #
 
 
+
+
+fef 
+
+
+d a 
